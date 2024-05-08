@@ -2,4 +2,7 @@
 /datasets/user_reviews.json.gz
 /datasets/users_items.json.gz
 /datasets/Diccionario de Datos STEAM.xlsx
+/datasets/user_item2.csv
+/datasets/steam_games2.csv
+/datasets/user_reviews2.csv
 
